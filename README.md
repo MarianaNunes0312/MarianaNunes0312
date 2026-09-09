@@ -126,21 +126,14 @@ Este projeto faz parte da minha experiência acadêmica e representa uma das min
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaNunes0312&bg_color=050505&color=C084FC&line=8B5CF6&point=C084FC&area=true&hide_border=true" width="95%"/>
+<a href="https://github.com/MarianaNunes0312">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaNunes0312&bg_color=050505&color=C084FC&line=8B5CF6&point=FFFFFF&area_color=3B0764&area=true&hide_border=true&radius=8&custom_title=MY%20CODING%20ACTIVITY" width="95%"/>
+
+</a>
 
 </div>
 
----
-
-# `> CONTRIBUTION_SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MarianaNunes0312/MarianaNunes0312/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 # `> CONNECT`
 
