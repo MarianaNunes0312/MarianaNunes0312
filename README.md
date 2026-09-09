@@ -91,17 +91,6 @@ Meu objetivo é continuar desenvolvendo minhas habilidades, adquirir experiênci
 
 <div align="center">
 
-<a href="https://github.com/MarianaNunes0312/ti1-pucminas">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaNunes0312&repo=ti1-pucminas&theme=tokyonight&bg_color=050505&title_color=C084FC&text_color=FFFFFF&icon_color=8B5CF6&border_color=8B5CF6" />
-
-</a>
-
-<br><br>
-
-<table>
-<tr>
-<td>
 
 ### `TI1 - PUC MINAS`
 
