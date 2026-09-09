@@ -116,10 +116,6 @@ Este projeto faz parte da minha experiência acadêmica e representa uma das min
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNunes0312&layout=compact&hide_border=true&bg_color=050505&title_color=C084FC&text_color=FFFFFF&icon_color=8B5CF6"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=MarianaNunes0312&theme=dark&hide_border=true&background=050505&ring=C084FC&fire=8B5CF6&currStreakLabel=C084FC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="70%"/>
 
 </div>
