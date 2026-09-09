@@ -1,16 +1,237 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MarianaNunes0312/MarianaNunes0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:3B0764,70:8B5CF6,100:C084FC&height=220&section=header&text=MARIANA%20NUNES&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=COMPUTER%20SCIENCE%20STUDENT&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%"/>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+MARIANA.exe;%3E+COMPUTER+SCIENCE+STUDENT;%3E+C+%7C+C%2B%2B+%7C+JAVASCRIPT;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+WELCOME+TO+MY+DIGITAL+SPACE" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MarianaNunes0312&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/MarianaNunes0312?label=FOLLOWERS&style=for-the-badge&color=C084FC&labelColor=050505"/>
+
+<img src="https://img.shields.io/github/stars/MarianaNunes0312?label=STARS&style=for-the-badge&color=8B5CF6&labelColor=050505"/>
+
+</div>
+
+---
+
+# `> ABOUT_ME`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+Sou estudante de **Ciência da Computação na PUC Minas**, atualmente no segundo semestre.
+
+Concluí o ensino médio no **Colégio Santa Marcelina BH em 2025** e estou construindo minha trajetória na área de tecnologia.
+
+Já tive contato com **C e C++** e atualmente estou aprendendo **JavaScript**.
+
+Tenho interesse em programação, tecnologia e principalmente em **desenvolvimento de jogos**, área que pretendo explorar cada vez mais ao longo da minha formação.
+
+Meu objetivo é continuar desenvolvendo minhas habilidades, adquirir experiência prática e construir uma carreira na área de tecnologia.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,arduino&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C-90%25-C084FC?style=for-the-badge&labelColor=050505"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/C%2B%2B-80%25-8B5CF6?style=for-the-badge&labelColor=050505"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-40%25-C084FC?style=for-the-badge&labelColor=050505"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Arduino-60%25-8B5CF6?style=for-the-badge&labelColor=050505"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `> TECH_STACK`
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" />
+
+<br><br>
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Code::Blocks-8B5CF6?style=for-the-badge&logo=codeblocks&logoColor=FFFFFF&labelColor=050505"/>
+
+</div>
+
+---
+
+# `> PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/MarianaNunes0312/ti1-pucminas">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaNunes0312&repo=ti1-pucminas&theme=tokyonight&bg_color=050505&title_color=C084FC&text_color=FFFFFF&icon_color=8B5CF6&border_color=8B5CF6" />
+
+</a>
+
+<br><br>
+
+<table>
+<tr>
+<td>
+
+### `TI1 - PUC MINAS`
+
+Projeto desenvolvido durante minha formação em **Ciência da Computação na PUC Minas**.
+
+Este projeto faz parte da minha experiência acadêmica e representa uma das minhas experiências práticas com desenvolvimento de software.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://github.com/MarianaNunes0312/ti1-pucminas">
+<img src="https://img.shields.io/badge/%3E_ VIEW_PROJECT-C084FC?style=for-the-badge&logoColor=FFFFFF&labelColor=050505"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# `> TERMINAL`
+
+```text
+┌──[MARIANA@GITHUB]─[~]
+└─$ whoami
+
+computer_science_student
+programmer_in_training
+technology_enthusiast
+
+
+┌──[MARIANA@GITHUB]─[~]
+└─$ languages
+
+C
+C++
+JavaScript [LEARNING]
+
+
+┌──[MARIANA@GITHUB]─[~]
+└─$ tools
+
+Arduino
+Code::Blocks
+
+
+┌──[MARIANA@GITHUB]─[~]
+└─$ interests
+
+Programming
+Game Development
+Technology
+Software Development
+
+
+┌──[MARIANA@GITHUB]─[~]
+└─$ status
+
+LEARNING...
+BUILDING...
+IMPROVING...
+SYSTEM STATUS: ONLINE
+```
+
+---
+
+# `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaNunes0312&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050505&title_color=C084FC&text_color=FFFFFF&icon_color=8B5CF6"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNunes0312&layout=compact&hide_border=true&bg_color=050505&title_color=C084FC&text_color=FFFFFF&icon_color=8B5CF6"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MarianaNunes0312&theme=dark&hide_border=true&background=050505&ring=C084FC&fire=8B5CF6&currStreakLabel=C084FC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="70%"/>
+
+</div>
+
+---
+
+# `> ACTIVITY_GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaNunes0312&bg_color=050505&color=C084FC&line=8B5CF6&point=C084FC&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# `> CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MarianaNunes0312/MarianaNunes0312/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/MarianaNunes0312">
+
+<img src="https://img.shields.io/badge/GitHub-MARIANANUNES0312-C084FC?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050505"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        SYSTEM ONLINE // KEEP BUILDING               ║
+║        CODE • LEARN • CREATE • IMPROVE              ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:3B0764,70:8B5CF6,100:C084FC&height=120&section=footer"/>
+
+</div>
