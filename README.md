@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+MARIANA.exe;%3E+COMPUTER+SCIENCE+STUDENT;%3E+C+%7C+C%2B%2B+%7C+JAVASCRIPT;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+WELCOME+TO+MY+DIGITAL+SPACE" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+MARIANA.exe;%3E+COMPUTER+SCIENCE+STUDENT;%3E+C+%7C+C%2B%2B+%7C+JAVA;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+WELCOME+TO+MY+DIGITAL+SPACE" alt="Typing SVG"/>
 
 <br><br>
 
@@ -31,7 +31,7 @@ Sou estudante de **Ciência da Computação na PUC Minas**, atualmente no segund
 
 Concluí o ensino médio no **Colégio Santa Marcelina BH em 2025** e estou construindo minha trajetória na área de tecnologia.
 
-Já tive contato com **C e C++** e atualmente estou aprendendo **JavaScript**.
+Já tive contato com **C e C++** e atualmente estou aprendendo **Java**.
 
 Tenho interesse em programação, tecnologia e principalmente em **desenvolvimento de jogos**, área que pretendo explorar cada vez mais ao longo da minha formação.
 
@@ -41,7 +41,7 @@ Meu objetivo é continuar desenvolvendo minhas habilidades, adquirir experiênci
 
 <td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,arduino&theme=dark" />
 
 <br><br>
 
@@ -51,7 +51,7 @@ Meu objetivo é continuar desenvolvendo minhas habilidades, adquirir experiênci
 <img src="https://img.shields.io/badge/C%2B%2B-80%25-8B5CF6?style=for-the-badge&labelColor=050505"/>
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-40%25-C084FC?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/Java-40%25-C084FC?style=for-the-badge&labelColor=050505"/>
 <br><br>
 
 <img src="https://img.shields.io/badge/Arduino-60%25-8B5CF6?style=for-the-badge&labelColor=050505"/>
@@ -71,7 +71,7 @@ Meu objetivo é continuar desenvolvendo minhas habilidades, adquirir experiênci
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
 
 <br><br>
 
@@ -109,8 +109,6 @@ Projeto desenvolvido durante minha formação em **Ciência da Computação na P
 
 Este projeto faz parte da minha experiência acadêmica e representa uma das minhas experiências práticas com desenvolvimento de software.
 
-**Tecnologias:** HTML • CSS • JavaScript
-
 <br>
 
 <a href="https://github.com/MarianaNunes0312/ti1-pucminas">
@@ -141,7 +139,7 @@ technology_enthusiast
 
 C
 C++
-JavaScript [LEARNING]
+Java [LEARNING]
 
 
 ┌──[MARIANA@GITHUB]─[~]
@@ -235,3 +233,4 @@ SYSTEM STATUS: ONLINE
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:3B0764,70:8B5CF6,100:C084FC&height=120&section=footer"/>
 
 </div>
+
