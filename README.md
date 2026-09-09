@@ -112,52 +112,6 @@ Este projeto faz parte da minha experiência acadêmica e representa uma das min
 
 ---
 
-# `> TERMINAL`
-
-```text
-┌──[MARIANA@GITHUB]─[~]
-└─$ whoami
-
-computer_science_student
-programmer_in_training
-technology_enthusiast
-
-
-┌──[MARIANA@GITHUB]─[~]
-└─$ languages
-
-C
-C++
-Java [LEARNING]
-
-
-┌──[MARIANA@GITHUB]─[~]
-└─$ tools
-
-Arduino
-Code::Blocks
-
-
-┌──[MARIANA@GITHUB]─[~]
-└─$ interests
-
-Programming
-Game Development
-Technology
-Software Development
-
-
-┌──[MARIANA@GITHUB]─[~]
-└─$ status
-
-LEARNING...
-BUILDING...
-IMPROVING...
-SYSTEM STATUS: ONLINE
-```
-
----
-
 # `> GITHUB_ANALYTICS`
 
 <div align="center">
