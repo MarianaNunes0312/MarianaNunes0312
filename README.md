@@ -126,7 +126,7 @@ Este projeto faz parte da minha experiência acadêmica e representa uma das min
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaNunes0312" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaNunes0312&bg_color=050505&color=C084FC&line=8B5CF6&point=FFFFFF&area_color=3B0764&area=true&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
