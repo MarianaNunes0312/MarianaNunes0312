@@ -116,8 +116,6 @@ Este projeto faz parte da minha experiência acadêmica e representa uma das min
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaNunes0312&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050505&title_color=C084FC&text_color=FFFFFF&icon_color=8B5CF6"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNunes0312&layout=compact&hide_border=true&bg_color=050505&title_color=C084FC&text_color=FFFFFF&icon_color=8B5CF6"/>
 
 <br><br>
