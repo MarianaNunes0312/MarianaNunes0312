@@ -112,7 +112,19 @@ Este projeto faz parte da minha experiência acadêmica e representa uma das min
 
 ---
 
+
 # `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MarianaNunes0312/MarianaNunes0312/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+
+# `> MONTHLY CONTRIBUTIONS`
 
 <div align="center">
 
